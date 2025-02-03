@@ -1,0 +1,14 @@
+release/main.o
+release/circuito.o
+release/maincircuito.o
+release/modificarconexao.o
+release/modificarporta.o
+release/newcircuito.o
+release/modificarsaida.o
+release/bool3S.o
+release/porta.o
+release/moc_maincircuito.o
+release/moc_modificarconexao.o
+release/moc_modificarporta.o
+release/moc_newcircuito.o
+release/moc_modificarsaida.o
